@@ -1,0 +1,4 @@
+Name,Department,Birthday month
+John Smith,Accounting,November
+Erica Mayers,IT,March
+Jennifer maik,Math,June
